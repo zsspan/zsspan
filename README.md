@@ -3,4 +3,4 @@ Hi, I’m @zsspan, and Currently a First Year Student at the University of Toron
 This GitHub is currently under development and for now, used mainly as an archive of side 
 projects and minor achievements.
 
-For additional contact and/or LinkedIn/Resume send me a GitHub message
+Visit [https://zsspan.github.io/](https://zsspan.github.io/) for my contact and achievements
