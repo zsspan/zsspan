@@ -1,6 +1,6 @@
-Hi, I’m @zsspan, and Currently a First Year Student at the University of Toronto:
+Hi, I’m @zsspan, and I am currently a Second Year Student at the University of Toronto:
 
-This GitHub is currently under development and for now, used mainly as an archive of side 
-projects and other achievements
+I am currently in the software engineering specialist stream and enjoy many disciplines of CS. This GitHub
+currently hosts some of the things I have done.
 
 Visit [https://zsspan.github.io/](https://zsspan.github.io/) for my contact and achievements!
