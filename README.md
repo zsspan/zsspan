@@ -6,8 +6,8 @@ Hi, I’m Zohair, and I am currently a second-year computer science student at t
 
 
 <p>
-  <a href="https://github.com/zsspan">GitHub</a> ⠀|⠀
-  <a href="https://www.linkedin.com/in/zohair-syed">LinkedIn</a> ⠀|⠀
+  <a href="https://github.com/zsspan">GitHub</a> |
+  <a href="https://www.linkedin.com/in/zohair-syed">LinkedIn</a> |
   <a href="mailto:zohairr.syed@mail.utoronto.ca">Email</a>
 </p>
 
