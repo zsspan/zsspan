@@ -5,13 +5,6 @@ University of Toronto CS | Current SWE Intern @Shopify
 Hi, I’m Zohair, and I am currently a second-year computer science student at the University of Toronto. I am currently doing a software engineering specialist along with a statistics minor and enjoy a variety of tech and non-tech fields! Visit https://zsspan.github.io/ for my personal achievements and contact!
 
 
-<p>
-  <a href="https://github.com/zsspan">GitHub</a> |
-  <a href="https://www.linkedin.com/in/zohairsyed">LinkedIn</a> |
-  <a href="mailto:zohairr.syed@mail.utoronto.ca">Email</a>
-</p>
-
-
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zsspan&theme=dark&langs_count=10&layout=compact&hide=mako)
 -->
