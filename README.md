@@ -4,7 +4,7 @@
 
 **University of Toronto CS | Current SWE Intern @Shopify**
 
-Hi, I’m Zohair, and I am currently a third-year computer science student at the University of Toronto. I am currently pursuing a specialization in software engineering alongside a minor in statistics, and I'm interested in many aspects of CS, including large-scale software architecture, machine learning and full-stack engineering. I also enjoy a variety of non-CS fields, and you can find me interested in geography, general sciences, photography, and literature, just to name a few :)
+Hi, I’m Zohair, and I am currently a third-year computer science student at the University of Toronto, specializing in software engineering and minoring in statistics. I enjoy a wide range of topics including large-scale software architecture, machine learning and full-stack engineering. Besides CS, I also have many interests including science, geography, politics, and photography :)
 
 🔷 [Personal Website](https://zsspan.github.io/)
 
