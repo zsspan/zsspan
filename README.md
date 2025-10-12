@@ -2,9 +2,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Oxford_Blue.png" width="100%" height="10">
 
 
-University of Toronto CS | Current SWE Intern @Shopify
+**University of Toronto CS | Current SWE Intern @Shopify**
 
-Hi, I’m Zohair, and I am currently a second-year computer science student at the University of Toronto. I am currently doing a software engineering specialist along with a statistics minor and enjoy a variety of tech and non-tech fields! 
+Hi, I’m Zohair, and I am currently a third-year computer science student at the University of Toronto. I am currently pursuing a specialization in software engineering alongside a minor in statistics, and I'm interested in many aspects of CS, including large-scale software architecture, machine learning and full-stack engineering. 
+
+In general, I enjoy a variety of non-CS fields as well, and am passionate about geography, general sciences, photography, and literature just to name a few. If you ever want to contact me, don't hesitate to reach out and say hello :)
 
 🔷 [Personal Website](https://zsspan.github.io/)
 
